@@ -1,0 +1,221 @@
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\appsettings.json
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\ASP.NET MVC.staticwebassets.runtime.json
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\ASP.NET MVC.staticwebassets.endpoints.json
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\ASP.NET MVC.exe
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\ASP.NET MVC.deps.json
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\ASP.NET MVC.runtimeconfig.json
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\ASP.NET MVC.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\ASP.NET MVC.pdb
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\ASP.NET MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\ASP.NET MVC.AssemblyInfoInputs.cache
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\ASP.NET MVC.AssemblyInfo.cs
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\ASP.NET MVC.csproj.CoreCompileInputs.cache
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\ASP.NET MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\ASP.NET MVC.RazorAssemblyInfo.cache
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\ASP.NET MVC.RazorAssemblyInfo.cs
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\scopedcss\bundle\ASP.NET MVC.styles.css
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\scopedcss\projectbundle\ASP.NET MVC.bundle.scp.css
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\compressed\tigtfdf7y5-b9sayid5wm.gz
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\compressed\yt1qhuvseq-61n19gt1b8.gz
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\compressed\51dxs459sz-xtxxf3hu2r.gz
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\compressed\34ad61rvun-bqjiyaj88i.gz
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\compressed\la24btzo83-c2jlpeoesf.gz
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\compressed\c4l1c3ecmk-erw9l3u2r3.gz
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\compressed\83w9v4y089-aexeepp0ev.gz
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\compressed\243v60r08n-d7shbmvgxk.gz
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\compressed\lt70i8yyra-ausgxo2sd3.gz
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\compressed\f36a3faa3r-k8d9w2qqmf.gz
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\compressed\3vkeezllow-cosvhxvwiu.gz
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\compressed\uwpz5xgyhm-ub07r2b239.gz
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\compressed\rt8qmo046b-fvhpjtyr6v.gz
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\compressed\2hzueqo72p-b7pk76d08c.gz
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\compressed\rhe36h7wzi-fsbi9cje9m.gz
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\compressed\etg4rlyi1b-rzd6atqjts.gz
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\compressed\f4xhkjibby-ee0r1s7dh0.gz
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\compressed\xp50oiau87-dxx9fxp4il.gz
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\compressed\wcnyr3h2rw-jd9uben2k1.gz
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\compressed\sg8xrf2v2s-khv3u5hwcm.gz
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\compressed\h7lv0uaora-r4e9w2rdcm.gz
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\compressed\9a21mazr3w-lcd1t2u6c8.gz
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\compressed\ge64mv0ubv-c2oey78nd0.gz
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\compressed\0o6pm0hgbd-tdbxkamptv.gz
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\compressed\max63b9dps-j5mq2jizvt.gz
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\compressed\p6306o83e1-06098lyss8.gz
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\compressed\3gri28lfq7-nvvlpmu67g.gz
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\compressed\w5ne4yy6j5-s35ty4nyc5.gz
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\compressed\ogn0vuuvje-pj5nd1wqec.gz
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\compressed\yeea71nj6f-46ein0sx1k.gz
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\compressed\06jy15dztr-v0zj4ognzu.gz
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\compressed\wgk18fgivx-37tfw0ft22.gz
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\compressed\69293hzu2s-hrwsygsryq.gz
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\compressed\51w2epmhcx-pk9g2wxc8p.gz
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\compressed\uhtl9chsnh-ft3s53vfgj.gz
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\compressed\v7dhknxe3k-6cfz1n2cew.gz
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\compressed\rxiox80l45-6pdc2jztkx.gz
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\compressed\q7zb0th2ud-493y06b0oq.gz
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\compressed\locg3xm9y7-iovd86k7lj.gz
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\compressed\0fv620dy5s-vr1egmr9el.gz
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\compressed\iugzb9a313-kbrnm935zg.gz
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\compressed\p4ma61izpt-jj8uyg4cgr.gz
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\compressed\yob3k4u34d-y7v9cxd14o.gz
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\compressed\x9xi1fmgx7-notf2xhcfb.gz
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\compressed\io6noy2xkj-h1s4sie4z3.gz
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\compressed\x9u3fyw6bs-63fj8s7r0e.gz
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\compressed\8g0fbav19v-0j3bgjxly4.gz
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\compressed\mkclgm0vny-47otxtyo56.gz
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\compressed\1qevofmc6r-4v8eqarkd7.gz
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\compressed\yhpp6h0ajv-356vix0kms.gz
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\compressed\h3vspuxlcc-83jwlth58m.gz
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\compressed\u9zg3tm04u-mrlpezrjn3.gz
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\compressed\2cp4fbj7fx-lzl9nlhx6b.gz
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\compressed\pciyp24yz8-ag7o75518u.gz
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\compressed\wmp2bfpfxk-x0q3zqp4vz.gz
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\compressed\zo493pg1dw-0i3buxo5is.gz
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\compressed\ru2w0drbga-o1o13a6vjx.gz
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\compressed\8y4nzcvl4e-ttgo8qnofa.gz
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\compressed\cmt5d3kf8p-2z0ns9nrw6.gz
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\compressed\56otg1drkf-muycvpuwrr.gz
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\compressed\m2y5bf01k4-87fc7y1x7t.gz
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\compressed\pu2v6y74ii-mlv21k5csn.gz
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\compressed\bu2i3zdypw-f3vnl9e57e.gz
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\compressed\qy1a8lwx3g-f3vnl9e57e.gz
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\staticwebassets\msbuild.ASP.NET MVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\staticwebassets\msbuild.ASP.NET MVC.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\staticwebassets\msbuild.build.ASP.NET MVC.props
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.ASP.NET MVC.props
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.ASP.NET MVC.props
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\ASP.NET MVC.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\refint\ASP.NET MVC.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\ASP.NET MVC.pdb
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\ASP.NET MVC.genruntimeconfig.cache
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\ref\ASP.NET MVC.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\Humanizer.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\ASP.NET MVC.csproj.AssemblyReference.cache
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\ASP.NET .22A783DB.Up2Date
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\compressed\ffzxa3znpf-063mzxddbn.gz

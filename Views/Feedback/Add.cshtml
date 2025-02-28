@@ -1,0 +1,55 @@
+@model ASP.NET_MVC.Models.Feedback
+
+@{
+    ViewData["Title"] = "Оставить отзыв";
+}
+
+<h1>Оставьте ваш отзыв</h1>
+
+<div id="feedbackForm">
+    <form id="feedback-form" asp-action="Add" method="post">
+        <div class="form-group">
+            <label asp-for="From">Ваше имя:</label>
+            <input asp-for="From" class="form-control" required />
+            <span asp-validation-for="From" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Text">Текст отзыва:</label>
+            <textarea asp-for="Text" class="form-control" required></textarea>
+            <span asp-validation-for="Text" class="text-danger"></span>
+        </div>
+        <button type="submit" class="btn btn-primary">Отправить</button>
+    </form>
+</div>
+
+<div id="feedbackThanks" style="display: none;"></div>
+
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            $('#feedback-form').submit(function (event) {
+                event.preventDefault(); // Предотвращаем стандартную отправку формы
+
+                var form = $(this);
+                var url = form.attr('action');
+                var data = form.serialize();
+
+                $.ajax({
+                    type: "POST",
+                    url: url,
+                    data: data,
+                    success: function (response) {
+                        // Скрываем форму и показываем сообщение благодарности
+                        $('#feedbackForm').hide();
+                        $('#feedbackThanks').html(response).show();
+                    },
+                    error: function (error) {
+                        // Обработка ошибок (например, вывод сообщения об ошибке)
+                        console.error("Ошибка при отправке отзыва:", error);
+                        alert("Произошла ошибка при отправке отзыва. Попробуйте позже.");
+                    }
+                });
+            });
+        });
+    </script>
+}
