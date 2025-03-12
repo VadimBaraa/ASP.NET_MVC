@@ -21,19 +21,7 @@ public class HomeController : Controller
 
     public async Task <IActionResult> Index()
        {
-           // Добавим создание нового пользователя
-           var newUser = new User()
-           {
-               Id = Guid.NewGuid(),
-               FirstName = "Andrey",
-               LastName = "Petrov",
-               JoinDate = DateTime.Now
-           };
- 
-           // Добавим в базу
-           await _repo.AddUser(newUser);
-          
-           return View();
+            return View();
        }
 
     

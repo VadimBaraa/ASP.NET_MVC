@@ -1,6 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using ASP.NET_MVC.Models.Db;
 using ASP.NET_MVC.Services;
+using ASP.NET_MVC.Middleware;
 
 public class Startup
 {
@@ -21,6 +22,7 @@ public class Startup
        services.AddScoped<IRequestRepository, RequestRepository>();
        services.AddSingleton<ILogService, LogService>();
        services.AddControllersWithViews();
+       services.AddLogging();
    }
  
    // Метод вызывается средой ASP.NET.

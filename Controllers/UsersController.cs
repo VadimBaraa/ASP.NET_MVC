@@ -8,23 +8,22 @@ namespace ASP.NET_MVC.Controllers;
 public class UsersController : Controller
 {
     private readonly IBlogRepository _repo;
-    private readonly BlogContext _context; 
-
-    public UsersController(IBlogRepository repo, BlogContext context) 
+    
+    public UsersController(IBlogRepository repo) 
         {
             _repo = repo;
-            _context = context; 
+             
         }
     public async Task <IActionResult> Index()
         {
             var authors = await _repo.GetUsers();
-            if (authors.Length > 0)
-            {
-                return View(authors.Take(1).ToArray());
-            }
             return View(authors);
         }
 
+    /// <summary>
+    /// Регистрация пользователя
+    /// </summary>
+    /// <returns></returns>
     [HttpGet]
     public IActionResult Register()
     {

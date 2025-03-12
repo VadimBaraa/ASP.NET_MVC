@@ -13,7 +13,7 @@ namespace ASP.NET_MVC.Services
         {
             var logEntry = new LogEntry
             {
-                Timestamp = DateTime.Now,
+                Timestamp = DateTime.UtcNow,
                 Message = message
             };
             _logs.Add(logEntry);

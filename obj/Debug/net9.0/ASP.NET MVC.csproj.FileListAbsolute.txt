@@ -219,3 +219,13 @@ C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\runtimes\wi
 C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\ASP.NET MVC.csproj.AssemblyReference.cache
 C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\ASP.NET .22A783DB.Up2Date
 C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\compressed\ffzxa3znpf-063mzxddbn.gz
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\obj\Debug\net9.0\ASP.NET MVC.sourcelink.json
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\Вадим\source\repos\Course\ASP.NET MVC\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll

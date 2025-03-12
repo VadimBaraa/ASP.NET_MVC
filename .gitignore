@@ -1,0 +1,21 @@
+# Visual Studio files
+*.suo
+*.user
+*.userosscache
+*.sln
+*.vcxproj.filters
+*.csproj.user
+
+# Build results
+bin/
+obj/
+[Bb]uild/
+[Dd]ebug/
+[Rr]elease/
+# Package files
+*.nupkg
+.vs/
+# Runtime data
+*.log
+*.cache
+*.db

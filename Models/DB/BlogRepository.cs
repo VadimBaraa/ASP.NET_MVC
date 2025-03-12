@@ -26,6 +26,8 @@ public class BlogRepository : IBlogRepository
 {
     
    // Получим всех активных пользователей
-   return await _context.Users.ToArrayAsync();
+   return await _context.Users
+                .OrderByDescending(u => u.JoinDate)
+                .ToArrayAsync();
 }
 }
